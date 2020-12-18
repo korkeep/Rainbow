@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "793161668164",
+    "firebase_url": "https://rainbowkhu.firebaseio.com",
+    "project_id": "rainbowkhu",
+    "storage_bucket": "rainbowkhu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793161668164:android:370d405b607ee9b5538e11",
+        "android_client_info": {
+          "package_name": "com.example.rainbow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793161668164-nk1n912oghcnddl0jji9tl25cidu72us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxFNwzFiXNpaF4XwISUX3LX2YCUZawLEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793161668164-nk1n912oghcnddl0jji9tl25cidu72us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
