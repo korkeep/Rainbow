@@ -1,5 +1,5 @@
 # Rainbow
-Implementing Study-Helper service using IoT(RPi, NIC), Cloud(API Gateway, Lambda, RDS), Application(Android, Firebase) 🌈
+Implementing Study-Helper service using IoT, Cloud, Application 🌈
 - [Application](https://github.com/korkeep/Rainbow/tree/master/App)
 - [AWS Cloud](https://github.com/korkeep/Rainbow/blob/master/Cloud/README.md#rainbow---aws-cloud)
 - [IoT Device](https://github.com/korkeep/Rainbow/tree/master/RPi#rainbow---rpi)
